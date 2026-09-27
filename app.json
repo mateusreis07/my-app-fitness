@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "KORA",
+    "slug": "kora-fitness",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "kora",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F6F7F2",
+    "ios": { "supportsTablet": true },
+    "android": { "predictiveBackGestureEnabled": true },
+    "web": { "output": "static", "name": "KORA — Seu corpo. Seu plano. Todo dia." },
+    "plugins": ["expo-router", ["expo-splash-screen", { "backgroundColor": "#163F35" }]],
+    "experiments": { "typedRoutes": true }
+  }
+}

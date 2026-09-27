@@ -1,0 +1,10 @@
+node_modules
+.expo
+.npm-cache
+.tools
+dist
+dist-native
+artifacts
+package-lock.json
+KORA_MASTER_CONTEXT.md
+kora-scaffold
